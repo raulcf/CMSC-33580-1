@@ -22,4 +22,6 @@ The course can be taken pass-fail or for a letter grade, but does not count for 
 
 ### Schedule
 
-Soon...
+The specific dates and sessions will be available soon.
+
+The schedule mixes lectures with discussion-based sessions lead by the instructor as well as *workshops*, where we all work on an open question. Most lectures and discussion sessions require working on some readings before class. We cover topics that include: data science, the 4th paradigm of science, data lifecycles, privacy, FAIR principles, value of data from a macro perspective, value of data from within an organization, sharing platforms, auction-based markets and other mechanism design topics, personal data markets, privacy, ethics, ownership of data, data unions cooperatives, data dividends, as well as other markets of information.
