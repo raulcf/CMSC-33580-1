@@ -16,6 +16,8 @@ The course can be taken pass-fail or for a letter grade but does not count for a
 
 **Office Hours:** You can use office hours to discuss any topic we cover in class. I expect most students will use office hours to discuss their individual projects. Times will be available soon.
 
+**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/30764)
+
 ### Grading
 
 - **Course Project (80%).** Quarter-long project based on seed ideas or proposed by the student and agreed upon during the first week.
