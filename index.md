@@ -45,3 +45,10 @@ related symptoms
 
 The complete text of the UChicago Health Pact along with additional information about
 COVID-19 protocols can be found [here](https://goforward.uchicago.edu/health-requirements/#healthpact).
+
+Any concerns over inappropriate PPE usage, physical distancing, cleaning/disinfection, or other 
+COVID-19 related public health concerns should be directed to UCAIR. If there is an emergency, 
+call 773-702-8181 or dial 123 on any campus phone.
+
+If you were potentially exposed to COVID-19 or your COVID-19 test results come back
+positive, reach out immediately to C19HealthReport@uchicago.edu.
