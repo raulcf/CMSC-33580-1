@@ -29,3 +29,19 @@ The course can be taken pass-fail or for a letter grade but does not count for a
 The specific dates and sessions will be available soon.
 
 The schedule combines lectures with discussion-based sessions led by the instructor as well as *workshops*, where we all work together on an open question. Most lectures and discussion sessions require working on some readings before class. We will cover topics that include: data science, the 4th paradigm of science, data lifecycles, privacy, FAIR principles, the value of data from a macro perspective, the value of data from within an organization, sharing platforms, auction-based markets and other mechanism design topics, personal data markets, privacy, ethics, ownership of data, data unions cooperatives, data dividends, as well as other markets of information.
+
+### UChicago Health Pact
+
+All students on campus are required to adhere to the guidelines in the UChicago Health
+Pact in order to promote a safe environment in the classroom.
+
+- Secure face coverings must be worn appropriately at all times at all times while in
+University buildings
+
+- Maintain a distance of 6 feet from others
+
+- Do not attend and in-person class if you feel unwell or are experiencing COVID-19
+related symptoms
+
+The complete text of the UChicago Health Pact along with additional information about
+COVID-19 protocols can be found [here](https://goforward.uchicago.edu/health-requirements/#healthpact).
