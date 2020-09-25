@@ -18,6 +18,8 @@ The course can be taken pass-fail or for a letter grade. For a letter grade, yo
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/30764)
 
+**Zoom:** We will use [this zoom link](https://uchicago.zoom.us/my/raulcf) for the lectures and discussions. Requires a uchicago account and a password you'll receive separately.
+
 ### Grading
 
 - **Course Project (80%).** Quarter-long project based on seed ideas or proposed by the student and agreed upon during the first week.
@@ -26,7 +28,7 @@ The course can be taken pass-fail or for a letter grade. For a letter grade, yo
 
 ### Schedule
 
-The specific dates and sessions will be available soon.
+The schedule [is available here](schedule.md). Check it out frequently as it'll likely change a bit throughout the quarter.
 
 The schedule combines lectures with discussion-based sessions led by the instructor as well as *workshops*, where we all work together on an open question. Most lectures and discussion sessions require working on some readings before class. We will cover topics that include: data science, the 4th paradigm of science, data lifecycles, privacy, FAIR principles, the value of data from a macro perspective, the value of data from within an organization, sharing platforms, auction-based markets and other mechanism design topics, personal data markets, privacy, ethics, ownership of data, data unions cooperatives, data dividends, as well as other markets of information.
 
