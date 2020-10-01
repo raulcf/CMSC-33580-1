@@ -6,8 +6,8 @@ Please, check out this schedule frequently as it will likely change a bit throug
 |  Date |  Lecture |  Keywords  |  Readings |
 |:----:|:----:|:------:|:----:|
 | 09/29 | Introduction. The value of data |  introduction, economics of data, grading criteria |   |
-| 10/01 | The Data Science Lifecycle | collection, preparation, modeling, processing, communication of data products. How does data produce value | <ul><li>Wing, J. M. (2019). The Data Life Cycle. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.e26845b4</li><li> Jim Gray's speech on eScience (http://itre.cis.upenn.edu/myl/JimGrayOnE-Science.pdf) from the 4th paradigm of science</li></ul> |
-| 10/06 | Data as a First-Class Citizen | economic properties of data, privacy, incentives, breaches, antitrust, nonrivalry, power assymetries | TBA |
+| 10/01 | The Data Science Lifecycle | collection, preparation, modeling, processing, communication of data products. How does data produce value | 1- Wing, J. M. (2019). The Data Life Cycle. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.e26845b4 2- Jim Gray's speech on eScience (http://itre.cis.upenn.edu/myl/JimGrayOnE-Science.pdf) from the 4th paradigm of science |
+| 10/06 | Data as a First-Class Citizen | economic properties of data, privacy, incentives, breaches, antitrust, nonrivalry, power assymetries | [Economic properties of data and the monopolistic tendencies of data economy: policies to limit an Orwellian possibility](https://www.un.org/development/desa/publications/working-paper/wp164). 17 May 2020 by Hoi Wai Jackie Cheng ST/ESA/2020/DWP/164 |
 | 10/08 | Data Catalogs and Data Engineering | data engineering, preparation, integration, discovery, cataloguing, metadata, reproducibility, provenance | TBA |
 | 10/13 | Workshop 1: What's the value of data? | hands-on activities in the class | TBA |
 | 10/15 | The Value of Data: Macro perspective | digital economy, growth functions, knowledge production | TBA |
