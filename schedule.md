@@ -18,8 +18,8 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 11/03 | Data Pricing | why price data?, pricing models  | 1- [A. Goldfarb and C. Tucker. Digital economics. Journal of Economic Literature, 57(1):3–43, March 2019](https://www.aeaweb.org/articles?id=10.1257/jel.20171452) 2- [A Survey on Data Pricing: from Economics to Data Science. Jian Pei. 2020](https://arxiv.org/pdf/2009.04462.pdf) |
 | 11/05 | Introduction to Mechanism Design | truthfulness, incentive-compatibility, property of good mechanisms, auctions, posting prices | TBA |
 | 11/10 | Mechanism Design for Data | nonrivaly, strategic participants, combinatorial power of data | [A Marketplace for Data: An Algorithmic Solution](https://arxiv.org/abs/1805.08125) |
-| 11/12 | Personal Data and Introduction to Privacy | access, control, markets for privacy, contextual integrity | TBA |
-| 11/17 | Markets for Privacy | social value of data, value of private information, should personal data be sold? | TBA |
+| 11/12 | Personal Data and Introduction to Privacy | access, control, markets for privacy, contextual integrity | -- |
+| 11/17 | Markets for Privacy | social value of data, value of private information, should personal data be sold? | [The Economics of Privacy. Alessandro Acquisti, Curtis Taylor, Liad Wagman. JOURNAL OF ECONOMIC LITERATURE VOL. 54, NO. 2, JUNE 2016](https://www.aeaweb.org/articles?id=10.1257/jel.54.2.442) Read section 1, skim section 2, read section 3.0, 3.6, 3.8, read section 4.0, 4.2, 4.4. Skim the rest |
 | 11/19 | Externality of Data | externalities, public good, economics of social data | TBA |
 | 11/24 | Thanksgiving |  |  |
 | 11/26 | Thanksgiving |  |  |
