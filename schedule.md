@@ -20,10 +20,10 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 11/10 | Mechanism Design for Data | nonrivaly, strategic participants, combinatorial power of data | [A Marketplace for Data: An Algorithmic Solution](https://arxiv.org/abs/1805.08125) |
 | 11/12 | Personal Data and Introduction to Privacy | access, control, markets for privacy, contextual integrity | -- |
 | 11/17 | Markets for Privacy | social value of data, value of private information, should personal data be sold? | [The Economics of Privacy. Alessandro Acquisti, Curtis Taylor, Liad Wagman. JOURNAL OF ECONOMIC LITERATURE VOL. 54, NO. 2, JUNE 2016](https://www.aeaweb.org/articles?id=10.1257/jel.54.2.442) Read section 1, skim section 2, read section 3.0, 3.6, 3.8, read section 4.0, 4.2, 4.4. Skim the rest |
-| 11/19 | Externality of Data | externalities, public good, economics of social data | TBA |
+| 11/19 | Externality of Data | externalities, public good, economics of social data | [Too much data: prices and inefficiencies in data markets”. Acemoglu, D, A Makhdoumi, A Malekian, and A Ozdaglar (2019), , NBER Working Paper No. 26296](https://repec.cepr.org/repec/cpr/ceprdp/DP14225.pdf) |
 | 11/24 | Thanksgiving |  |  |
 | 11/26 | Thanksgiving |  |  |
-| 12/01 | Who Owns a Dataset? | scraping, measuring, data exhaust, data as by-product of other activities, regulated industries, GDPR/CCPA | TBA |
+| 12/01 | Who Owns a Dataset? | scraping, measuring, data exhaust, data as by-product of other activities, regulated industries, GDPR/CCPA | [“Data Strikes”: Evaluating the Effectiveness of a New Form of Collective Action Against Technology Companies. Vicent, Hecht, Sen, WWW'19](https://brenthecht.com/publications/thewebconference2019_datastrikes.pdf) |
 | 12/03 | Data Unions, Cooperatives, and Dividends | data as labor, digital empowerment of citizens, blockchain and decentralized authorities | TBA |
 | 12/05 | Other Markets of Information | markets for truth, information overload, prediction markets, and more | TBA |
 | 12/08 | Project Presentations 1/2 | project presentation and discussion | TBA |
