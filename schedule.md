@@ -25,7 +25,6 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 11/26 | Thanksgiving |  |  |
 | 12/01 | Who Owns a Dataset? | scraping, measuring, data exhaust, data as by-product of other activities, regulated industries, GDPR/CCPA | [“Data Strikes”: Evaluating the Effectiveness of a New Form of Collective Action Against Technology Companies. Vicent, Hecht, Sen, WWW'19](https://brenthecht.com/publications/thewebconference2019_datastrikes.pdf) |
 | 12/03 | Data Unions, Cooperatives, and Dividends | data as labor, digital empowerment of citizens, blockchain and decentralized authorities | TBA |
-| 12/05 | Other Markets of Information | markets for truth, information overload, prediction markets, and more | TBA |
 | 12/08 | Project Presentations 1/2 | project presentation and discussion | TBA |
 | 12/10 | Project Presentations 2/2 and Conclusions | project presentation, discussion, and conclusion | TBA |
 
