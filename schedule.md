@@ -1,9 +1,10 @@
-## Schedule
+## Schedule TBD
 
+The schedule will be available in this page by mid September'21.
 Please, check out this schedule frequently as it will likely change a bit throughout the quarter.
 
 
-|  Date |  Lecture |  Keywords  |  Readings |
+<!-- |  Date |  Lecture |  Keywords  |  Readings |
 |:----:|:----:|:------:|:----:|
 | 09/29 | Introduction. The value of data |  introduction, economics of data, grading criteria |   |
 | 10/01 | The Data Science Lifecycle | collection, preparation, modeling, processing, communication of data products. How does data produce value | 1- [Wing, J. M. (2019). The Data Life Cycle. Harvard Data Science Review, 1(1]( https://doi.org/10.1162/99608f92.e26845b4) 2- [Jim Gray's speech on eScience](http://itre.cis.upenn.edu/myl/JimGrayOnE-Science.pdf) from the 4th paradigm of science |
@@ -26,5 +27,5 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 12/01 | Who Owns a Dataset? | scraping, measuring, data exhaust, data as by-product of other activities, regulated industries, GDPR/CCPA | [“Data Strikes”: Evaluating the Effectiveness of a New Form of Collective Action Against Technology Companies. Vicent, Hecht, Sen, WWW'19](https://brenthecht.com/publications/thewebconference2019_datastrikes.pdf) |
 | 12/03 | Data Unions, Cooperatives, and Dividends | data as labor, digital empowerment of citizens, blockchain and decentralized authorities | TBA |
 | 12/08 | Project Presentations 1/2 | project presentation and discussion | TBA |
-| 12/10 | Project Presentations 2/2 and Conclusions | project presentation, discussion, and conclusion | TBA |
+| 12/10 | Project Presentations 2/2 and Conclusions | project presentation, discussion, and conclusion | TBA | -->
 
