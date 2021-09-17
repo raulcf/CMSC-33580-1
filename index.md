@@ -4,7 +4,7 @@ While data and artificial intelligence are driving many changes to our economic,
 Many of these issues call for treating data as a first-class citizen and thinking of it as an asset. What is the value of data? and how do we measure it? This course explores these questions from a multidisciplinary perspective that includes computer science, economy, social science, among others. 
 The sessions are organized around broad themes related to the value of data. A typical session will consist of a short introduction by the instructor, followed by a paper discussion (students are expected to read the assigned papers ahead of the class), and finishing with a discussion about individual projects.
 
-The course can be taken pass-fail or for a letter grade. For a letter grade, you need to complete an individual, quarter-long project. You also need to attend classes, participate in discussions, and scribe for two/three classes. For pass-fail, you do not need to complete the individual project but all other requirements apply.
+The course can be taken pass-fail or for a letter grade (i.e., as an approved elective). For a letter grade, you need to complete an individual, quarter-long project. You also need to attend classes, participate in discussions, and scribe for two/three classes. For pass-fail, you do not need to complete the individual project but all other requirements apply.
 
 #### Learning Objectives
 
