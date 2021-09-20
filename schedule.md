@@ -5,7 +5,7 @@ Please, check out this schedule frequently as it will likely change a bit throug
 |  Date |  Lecture |  Keywords  |  Readings |
 |:----:|:----:|:------:|:----:|
 | 09/28 | Introduction. Session on conducting and writing a literature review |  introduction, economics of data, grading criteria | -- |
-| 09/30 | Data as a First-Class Citizen | economic properties of data, privacy, incentives, breaches, antitrust, nonrivalry, power assymetries | TBA |
+| 09/30 | Data as a First-Class Citizen | economic properties of data, privacy, incentives, breaches, antitrust, nonrivalry, power asymmetries | TBA |
 | 10/05 | The Data Science Lifecycle, Data Engineering, and Downstream Effects | collection, discovery, preparation, integration, modeling, processing, communication of data products, cataloging, reproducibility and provenance | TBA |
 | 10/07 | Metadata Management and Data Catalogs | FAIR, data documentation, catalogs, value of metadata | TBA |
 | 10/12 | The Value of Data: Macro perspective | digital economy, growth functions, knowledge production | TBA |
