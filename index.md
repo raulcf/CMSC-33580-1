@@ -41,7 +41,7 @@ In addition to learning about a varied set of topics related to data science and
 
 ### Schedule
 
-The schedule [is available here](schedule.md). Check it out frequently as it'll likely change a bit throughout the quarter.
+The schedule [is available here](schedule.md). Check it out frequently as it'll likely change a bit throughout the quarter and I will include the readings here.
 
 The schedule combines lectures with discussion-based sessions led by the instructor as well as *workshops*, where we all work together on an open question. Most lectures and discussion sessions require working on some readings before class. We will cover topics that include: data science, the 4th paradigm of science, data lifecycles, privacy, FAIR principles, the value of data from a macro perspective, the value of data from within an organization, sharing platforms, data markets, personal data markets, privacy, ethics, ownership of data, data unions cooperatives, data dividends, as well as other markets of information and more.
 
