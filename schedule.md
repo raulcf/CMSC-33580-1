@@ -1,6 +1,6 @@
 ## Schedule
 
-Please, check out this schedule frequently as it will likely change a bit throughout the quarter. In addition, I will post the readings for the next week here.
+Please, check out this schedule frequently as it will likely change a bit throughout the quarter. In addition, I will post readings weekly.
 
 |  Date |  Lecture |  Keywords  |  Readings |
 |:----:|:----:|:------:|:----:|
