@@ -31,7 +31,7 @@ In addition to learning about a varied set of topics related to data science and
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/37264)
 
-**Room:** TBD
+**Room:** JCL 011
 
 ### Grading
 
