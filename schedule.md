@@ -15,7 +15,7 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 10/26 | Passive Value and Data Sharing | data lakes, cloud, commons, data bartering, revenue allocation, incentives | TBA |
 | 10/28 | Accruing value to data, cost-sharing, data-sharing consortia  | Challenges, Shapley value, the core, alternative solutions | TBA |
 | 11/02 | Data Markets and Marketplaces 1/3 | data brokers, data sharing agreements, data bartering, price finding | TBA |
-| 11/04 | Data Markets and Marketplaces 2/3 | market proposals | TBA |
+| 11/04 | Data Markets and Marketplaces 2/3 | market proposals | **Project outline and draft** TBA |
 | 11/09 | Data Markets and Marketplaces 3/3 | market proposals | TBA |
 | 11/11 | Personal Data and Introduction to Privacy | individual's data, regulations, access and control, markets for privacy, contextual integrity | TBA |
 | 11/16 | Privacy vs Value? | privacy enhancing technologies, data risk and value | TBA |
