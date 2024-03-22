@@ -21,7 +21,7 @@ In addition to learning about a varied set of topics related to data science, da
 
 **Instructor:** [Raul Castro Fernandez](https://raulcastrofernandez.com) (raulcf@uchicago.edu)
 
-**Lectures:** Friday 9:30am–12:20am (Central Time)
+**Lectures:** Friday 9:30am–12:20pm (Central Time)
 
 **Prerequisites:** Permission from the instructor.
 
