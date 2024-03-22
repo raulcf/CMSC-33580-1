@@ -6,7 +6,7 @@ A typical session will consist of a short introduction by the instructor, follow
 
 #### Learning Objectives
 
-In addition to learning about a varied set of topics related to data science, management, and data economics, the following are the specific learning objectives of this class:
+In addition to learning about a varied set of topics related to data science, data management, and data economics, the following are the specific learning objectives of this class:
 
 - To become comfortable discussing papers written in different styles by researchers in diverse research communities.
 
