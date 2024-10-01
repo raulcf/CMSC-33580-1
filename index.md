@@ -1,8 +1,8 @@
-### Spring 2024
+### Fall 2024
 
-This class is offered as a seminar in Spring'24. If you are planning to take it to satisfy requirements for a degree, double-check that that is possible. The seminar is focused on answering one question: "what is the value of data?". Throughout a mix of lectures and paper discussions, we will explore the many dimensions of this question. This seminar explores this question from a multidisciplinary perspective that includes computer science, economics, social science, among others.
+This seminar is focused on answering one question: "what is the value of data?". Throughout a mix of lectures and paper discussions, we will explore the many dimensions of this question. We will explore this question from a multidisciplinary perspective that includes computer science, economics, and social science, among others. We will discuss abstract ideas and practical concepts and tools as well.
 
-A typical session will consist of a short introduction by the instructor, followed by a paper discussion (students are expected to read the assigned papers ahead of the class).
+A typical session will consist of a short introduction by the instructor, followed by a paper discussion (students are expected to read the assigned papers ahead of the class and guide the discussion).
 
 #### Learning Objectives
 
@@ -16,6 +16,8 @@ In addition to learning about a varied set of topics related to data science, da
 
 - To practice your spoken and written communication skills when conveying advanced material to a technical audience.
 
+- To gain a nuanced understanding of data, its value, its impact in society, and the mechanisms and interventions available to harness such value.
+
 
 ### Course Information
 
@@ -25,12 +27,33 @@ In addition to learning about a varied set of topics related to data science, da
 
 **Prerequisites:** Permission from the instructor.
 
-**Coursework:** Studying the assigned papers ahead of each session. Come ready to discuss and scrutinize ideas with an open mind.
+**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/58697). We won't use Canvas. Canvas simply points to this website.
 
-**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/56231). We won't use Canvas. Canvas simply points to this website.
+**Room:** Ryerson 277
 
-**Room:** Saieh Hall 247
+### Coursework and Evaluation
 
+**Assignment 1 (A1):** Applying Dataflow Thinking to an area of your choosing.
+
+**Assignment 2 (A2):** Max 2000-word report that includes: i) motivation of a data ecosystem of your choosing; ii) description of data-related challenges in such ecosystem; iii) applied dataflow thinking to the ecosystem (from A1); iv) proposed interventions and (qualitative or quantitative) analysis of their effectiveness; v) discussion of related literature.
+
+**Attendance.** Much of the value of this class is in attending the sessions, discussing the papers, and engaging in the discussions.
+
+**Guiding paper discussion.** You will be assigned readings to discuss in class.
+
+You can choose to take this class to gain a letter grade or Pass/Fail (check with your program whether Pass/Fail is indeed an option available to you). To grade your work we will follow an ESNU grading scheme (Excellent, Satisfactory, Not-Satisfactory, Ungradable). Each assignment will receive a letter E, S, N, or U. You will have an opportunity to resubmit all assignments but 1 (the last one) and improve your grade. 
+
+A  -> You get 4 E
+A- -> You get 3 E and 1 S
+B+ -> You get 2 E and 2 S or 3 E and 1 N
+B  -> You get 2 E and 1 S
+B- -> You get 1 E in A1/A2 and at least 1 E in Attendance / Guiding paper discussion.
+C -> You get only 1 E
+
+You can resubmit A1 (as part of your final A2) and improve your grade. But you cannot resubmit A2. We will create opportunities in class to discuss progress and brainstorm any questions that arise.
+
+You get an E in *attendance* if you come to class **and** participate in the discussions. Just showing up won't guarantee an E.
+You get an E in *guiding paper discussion* if you: i) prepare an adequate summary of the paper; ii) discuss its connection to the topics we cover in class; iii) discuss strengths and weaknesses; iv) pose questions to incent discussion
 
 ### Schedule
 
