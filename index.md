@@ -33,7 +33,7 @@ In addition to learning about a varied set of topics related to data science, da
 
 ### Coursework and Evaluation
 
-**Assignment 1 (A1):** Applying Dataflow Thinking to an area of your choosing.
+**Assignment 1 (A1):** Applying Dataflow Thinking to a data ecosystem of your choosing.
 
 **Assignment 2 (A2):** Max 2000-word report that includes: i) motivation of a data ecosystem of your choosing; ii) description of data-related challenges in such ecosystem; iii) applied dataflow thinking to the ecosystem (from A1); iv) proposed interventions and (qualitative or quantitative) analysis of their effectiveness; v) discussion of related literature.
 
@@ -43,12 +43,12 @@ In addition to learning about a varied set of topics related to data science, da
 
 You can choose to take this class to gain a letter grade or Pass/Fail (check with your program whether Pass/Fail is indeed an option available to you). To grade your work we will follow an ESNU grading scheme (Excellent, Satisfactory, Not-Satisfactory, Ungradable). Each assignment will receive a letter E, S, N, or U. You will have an opportunity to resubmit all assignments but 1 (the last one) and improve your grade. 
 
-A  -> You get 4 E
-A- -> You get 3 E and 1 S
-B+ -> You get 2 E and 2 S or 3 E and 1 N
-B  -> You get 2 E and 1 S
-B- -> You get 1 E in A1/A2 and at least 1 E in Attendance / Guiding paper discussion.
-C -> You get only 1 E
+* A  -> You get 4 E
+* A- -> You get 3 E and 1 S
+* B+ -> You get 2 E and 2 S or 3 E and 1 N
+* B  -> You get 2 E and 1 S
+* B- -> You get 1 E in A1/A2 and at least 1 E in Attendance / Guiding paper discussion.
+* C -> You get 1 E
 
 You can resubmit A1 (as part of your final A2) and improve your grade. But you cannot resubmit A2. We will create opportunities in class to discuss progress and brainstorm any questions that arise.
 
@@ -59,4 +59,4 @@ You get an E in *guiding paper discussion* if you: i) prepare an adequate summar
 
 The schedule [is available here](schedule.md). Check it out frequently as the readings for each week will be included here.
 
-The schedule combines lectures with discussion-based sessions led by the instructor. Most lectures and discussion sessions require working on some readings before class.
+The schedule combines lectures with discussion-based sessions led by the instructor as well as workshops geared towards helping you with A1 and A2. Most lectures and discussion sessions require working on some readings before class.
