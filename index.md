@@ -1,5 +1,7 @@
 ### Fall 2024
 
+This class counts as an elective if you choose it to take it to obtain a letter grade, as opposed to pass/fail.
+
 This seminar is focused on answering one question: "what is the value of data?". Throughout a mix of lectures and paper discussions, we will explore the many dimensions of this question. We will explore this question from a multidisciplinary perspective that includes computer science, economics, and social science, among others. We will discuss abstract ideas and practical concepts and tools as well.
 
 A typical session will consist of a short introduction by the instructor, followed by a paper discussion (students are expected to read the assigned papers ahead of the class and guide the discussion).
