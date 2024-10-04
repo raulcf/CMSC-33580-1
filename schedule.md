@@ -7,6 +7,7 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 1 | 10/04 | On Data Ecology |  1. Introductions, 2. The Data Ecology Agenda and the role of the "value of data" 3. Dataflow Thinking 4. Discussion: what is the value of data? why do we care 5. Assignments and Grading |  |
 | 2 | 10/11 | What is the Value of Data? Theory and Systematization of the Value of Data 1/2 |  1. Definitions 2. Examples 3. Paper discussion 4. Applying Dataflow Thinking (example in class) | Come ready with an answer to "what is the value of data?" and read **1-.** Carriere-Swallow, Mr Yan, and Mr Vikram Haksar. [The economics and implications of data: an integrated perspective.](https://www.elibrary.imf.org/view/journals/087/2019/013/article-A001-en.xml) International Monetary Fund, 2019. **2-.** Mike Fleckenstein, Ali Obaidi, and Nektaria Tryfona [A Review of Data Valuation Approaches and Building and Scoring a Data Valuation Model](https://hdsr.mitpress.mit.edu/pub/1qxkrnig/release/1) HDSR 2023 **3-.** Diane Coyle and Luca Gamberi [A real options approach to data valuation](https://link.springer.com/article/10.1057/s11369-024-00374-2) Business Economics 2024  |
 | 3 | 10/18 | Workshop |   | Come prepared with a data ecosystem of your choosing. In class, you will work on A1, where you will apply dataflow thinking to the data ecosystem you have chosen. |
+| 4 | 10/25 | Research Talks |   |   |
 
 
 <!--
