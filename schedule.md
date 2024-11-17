@@ -10,7 +10,11 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 4 | 10/25 | Research Talks |   |   | RO1 due |
 | 5 | 11/01 | Value of Data and Marketplaces (1): A Broad Overview and a Concrete Proposal |   | **1-.** Carriere-Swallow, Mr Yan, and Mr Vikram Haksar. [The economics and implications of data: an integrated perspective.](https://www.elibrary.imf.org/view/journals/087/2019/013/article-A001-en.xml) International Monetary Fund, 2019. **2-.** Agarwal, Anish and Dahleh, Munther and Sarkar, Tuhin [A Marketplace for Data: An Algorithmic Solution](https://arxiv.org/abs/1805.08125). EC 2019  |  |
 | 6 | 11/08 | More data ecology, "macro" view of data, and data pricing |   | **1-.** Bridget Fahey. [Data Federalism](https://heinonline.org/HOL/LandingPage?handle=hein.journals/hlr135&div=45&id=&page=) Harvard Law Review, 2022 **2-.** Charles Jones, Christopher Tonetti, [Nonrivalry and the economics of data](https://www.aeaweb.org/articles?id=10.1257/aer.20191330), American Economic Review. 2020 **3-.** Abraham Thomas [How to Price a Data Asset](https://pivotal.substack.com/p/how-to-price-a-data-asset) Online, May 2024  |  |
-| 7 | 11/15 | Continuation of previous discussion |   |   |  |
+| 7 | 11/15 | Continuation of previous discussion |   |   | RO2 assigned |
+| 8 | 11/22 | Individual-Platform Data Markets and possible Interventions |   | **1**-. Jack Henderson, Matt Prewitt. [Data Coalitions and Escrow Agents](https://www.radicalxchange.org/media/blog/data-coalitions-and-escrow-agents/) RadicalXchange. 2023 **2**-. Mozilla Insights (Data Futures Lab) [Is that even legal? A guide for builders experimenting with data governance in the United States](https://foundation.mozilla.org/en/research/library/is-that-even-legal/usa/). 2023 **3**-. Dirk Bergemann, Alessandro Bonatti, Tan Gan [The Economics of Social Data](https://www.dropbox.com/scl/fi/tzpe08n4jlezuxpctmtoh/the_economics_of_social_data-rand.pdf?rlkey=exzq2nnd46qavhqzrqhzyot8o&dl=0). RAND Journal of Economics. 2022 |  |
+| 9 | 12/06 | Talks (more info coming soon) |   | TBD  | RO2 due |
+
+
 
 
 <!--
