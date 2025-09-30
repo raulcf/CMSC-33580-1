@@ -29,7 +29,7 @@ In addition to learning about a varied set of topics related to data science, da
 
 **Prerequisites:** Permission from the instructor.
 
-**Canvas Site:** We won't use Canvas.
+**Canvas Site:** We won't use Canvas. The [official Canvas site](https://canvas.uchicago.edu/courses/67292) points to this website.
 
 **Room:** JCL 011
 
